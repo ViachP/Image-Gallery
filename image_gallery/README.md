@@ -2,7 +2,7 @@
 
 ### [Live Site]
 
-![Image-Gallery](https://ibb.co/19gjNC4)
+![Image-Gallery](https://i.ibb.co/Vv15GFk/Image-Gallery.jpg)
 
 **Stack:**
 
