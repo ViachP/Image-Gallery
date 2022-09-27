@@ -1,8 +1,8 @@
 # Image-Gallery
 
-### [Live Site]
+### [Live Site](https://ibb.co/19gjNC4)
 
-## Stack:
+**Stack:**
 
 - ReactJS
 - Tailwind
