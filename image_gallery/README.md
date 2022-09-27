@@ -1,6 +1,8 @@
 # Image-Gallery
 
-### [Live Site](https://ibb.co/19gjNC4)
+### [Live Site]
+
+![Image-Gallery](https://ibb.co/19gjNC4)
 
 **Stack:**
 
