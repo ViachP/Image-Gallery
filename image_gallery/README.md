@@ -7,5 +7,5 @@
 **Stack:**
 
 - ReactJS
-- Tailwind
+- Tailwind CSS
 - Vite
